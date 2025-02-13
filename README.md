@@ -9,6 +9,7 @@
 - Web Development (React, Next.js, Strapi)
 - AI & Machine Learning (Python, Google Colab)
 - Cloud Computing & DevOps (AWS, CI/CD, GitHub Actions)
+  
 🛠 Skills
 - Programming: C, C++, Java, Python
 - Tools & Design: Figma, Canva, Microsoft Word & Excel
