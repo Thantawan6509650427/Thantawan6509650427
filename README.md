@@ -1,5 +1,7 @@
 👋 Hi, I’m @Thantawan6509650427
 
+My portfoilio : https://www.figma.com/proto/FoGbNVhpZKF1upy7rRS6rs/Portfolio-Design-(Community)?node-id=16-6&p=f&t=gc3F3Bh5TIZW17pJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 👀 About Me
 
 - I am a Computer Science student at Thammasat University, passionate about software development, UX/UI design, mobile applications, and AI. I enjoy working on real-world projects that solve practical problems and enhance user experiences.
