@@ -1,45 +1,38 @@
-👋 Hi, I’m @Thantawan6509650427
+# Hi, I'm Thantawan 👋
 
-My portfoilio : https://www.figma.com/proto/FoGbNVhpZKF1upy7rRS6rs/Portfolio-Design-(Community)?node-id=16-6&p=f&t=gc3F3Bh5TIZW17pJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+I'm a final-year Computer Science student at Thammasat University who enjoys creating practical, user-friendly digital products.  
+I’m passionate about combining thoughtful UI/UX design with solid development to build applications that feel clear, intuitive, and enjoyable to use.
 
-LINKIN: https://www.linkedin.com/in/thantawan-chitsan-0123b9350/
+## 🔥 Passion
+- Designing simple and intuitive user experiences  
+- Developing mobile applications that are practical and easy to use  
+- Exploring AI to understand how intelligent systems can support users  
+- Learning how game design elements create engagement and fun
 
-👀 About Me
+## 🎓 Education
+- **B.Sc. in Computer Science**, Thammasat University  
+- Focus areas: Software Engineering, Mobile Development, UI/UX, AI/ML
 
-- I am a Computer Science student at Thammasat University, passionate about software development, UX/UI design, mobile applications, and AI. I enjoy working on real-world projects that solve practical problems and enhance user experiences.
+## 💡 Interests
+- **UX/UI Design**  
+- **Mobile Applications**  
+- **AI & Machine Learning**  
+- **Game Design**
 
-🌱 Currently Learning
-- Android Development (Java)
-- Web Development (React, Next.js, Strapi)
-- AI & Machine Learning (Python, Google Colab)
-- Cloud Computing & DevOps (AWS, CI/CD, GitHub Actions)
-  
-🛠 Skills
-- Programming: C, C++, Java, Python
-- Tools & Design: Figma, Canva, Microsoft Word & Excel
-- Networking & Security: TCP/IP Model, Network Security, Threats & Attacks, Countermeasures
+## 🎯 Goals
+- Grow as a developer with strong UX/UI thinking  
+- Build mobile apps and interactive experiences that are useful and enjoyable  
+- Continue exploring AI and game design to create meaningful digital products
 
-💡 Key Projects & Achievements
-- 🎯 Food Advisor (Food Recommendation Platform)
-  * Designed the UI/UX and developed core features such as CRUD operations, Google Maps API integration, and a rating system.
-  * Collaborated on backend development using Strapi V4 and deployed the system on AWS EC2.
-- 🧑‍💻 AI Rice Disease Detection
-  *Developed an AI model for classifying rice diseases using Python & Google Colab.
-  *Designed the web & mobile app interface using Figma and created a detailed user manual.
-- 📚 Web Application for Course Registration
-  *Built the frontend using VS Code & Sublime Text.
-  *Applied Agile & Scrum methodologies for project management.
-- 📜 Sarabun CSTU (Electronic Document Management System)
-  *Developed a system for digital document management to enhance efficiency & accessibility.
-- 📲 Mobile Applications
-  *BMI Calculator, Fortune Prediction App, Expense Tracker App
-  *Designed & developed functional Android applications using Android Studio, covering both front-end and back-end.
-  
-🚀 Extracurricular Activities
-- Computer Science Representative: Coordinated and communicated updates with fellow students.
-- PR Team Member: Organized gaming competitions for ROV and Valorant.
-🎯 Goals & Aspirations
-- I am a highly motivated and creative UX/UI Designer & Developer, passionate about mobile applications and game design. My ultimate goal is to design engaging games and applications that captivate users and contribute to top-selling success in the market.
+## 🚀 Activities & Experience
+- Designed and developed projects such as:  
+  - **Food Advisor** – full-stack food recommendation platform (UI/UX + React/Strapi + AWS)  
+  - **AI Rice Disease Detection** – ML model paired with a clean, easy-to-use interface  
+  - **Android Applications** – BMI Calculator, Expense Tracker, Fortune Prediction App  
+  - **Sarabun CSTU** – electronic document management system  
+- Served as a Computer Science Representative  
+- Joined the PR team organizing events and gaming competitions (ROV & Valorant)
 
-📫 Contact Me
-- 📧 Email: tantawanjittsan@gmail.com
+## 📫 Contact
+- **Email:** tantawanjittsan@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/thantawan-chitsan-0123b9350/
