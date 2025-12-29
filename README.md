@@ -1,40 +1,48 @@
-# Hi, I'm Thantawan 👋
+# Hi, I’m Thantawan 👋
 
-I'm a final-year Computer Science student at Thammasat University who enjoys creating practical, user-friendly digital products.  
-I’m passionate about combining thoughtful UI/UX design with solid development to build applications that feel clear, intuitive, and enjoyable to use.
+Final-year Computer Science student at Thammasat University with hands-on experience in building practical web and mobile applications.  
+Interested in developing user-friendly products by combining clear UI/UX thinking with solid development fundamentals.
 
-https://my-portfolio-umber-chi-c83s82jyz1.vercel.app/
+🌐 Portfolio: https://my-portfolio-umber-chi-c83s82jyz1.vercel.app/  
+💻 GitHub: https://github.com/Thantawan6509650427  
+📪 Linkin: www.linkedin.com/in/thantawan-chitsan
 
-## 🔥 Passion
-- Designing simple and intuitive user experiences  
-- Developing mobile applications that are practical and easy to use  
-- Exploring AI to understand how intelligent systems can support users  
-- Learning how game design elements create engagement and fun
+---
 
 ## 🎓 Education
-- **B.Sc. in Computer Science**, Thammasat University  
-- Focus areas: Software Engineering, Mobile Development, UI/UX, AI/ML
+**B.Sc. in Computer Science** — Thammasat University (2022 – Present)
 
-## 💡 Interests
-- **UX/UI Design**  
-- **Mobile Applications**  
-- **AI & Machine Learning**  
-- **Game Design**
+---
 
-## 🎯 Goals
-- Grow as a developer with strong UX/UI thinking  
-- Build mobile apps and interactive experiences that are useful and enjoyable  
-- Continue exploring AI and game design to create meaningful digital products
+## 💡 Focus Areas
+- Web & Mobile Application Development  
+- UX/UI Design (developer-focused)  
+- RESTful APIs & basic backend systems  
 
-## 🚀 Activities & Experience
-- Designed and developed projects such as:  
-  - **Food Advisor** – full-stack food recommendation platform (UI/UX + React/Strapi + AWS)  
-  - **AI Rice Disease Detection** – ML model paired with a clean, easy-to-use interface  
-  - **Android Applications** – BMI Calculator, Expense Tracker, Fortune Prediction App  
-  - **Sarabun CSTU** – electronic document management system  
-- Served as a Computer Science Representative  
-- Joined the PR team organizing events and gaming competitions (ROV & Valorant)
+---
+
+## 🚀 Selected Projects
+- **Food Advisor** – Full-stack food recommendation platform (React, Strapi, AWS)  
+- **AI Rice Disease Detection** – Image classification with a simple user interface  
+- **Android Apps** – BMI Calculator, Expense Tracker, Fortune App  
+- **Sarabun CSTU** – Electronic document management system  
+
+---
+
+## 🏢 Experience
+**IT Development Intern – Mizuho Bank Ltd.**  
+Jun 2025 – Aug 2025  
+- Developed internal web tools using HTML and JavaScript  
+- Conducted system testing and supported development processes  
+
+---
+
+## 🛠 Technical Skills
+**JavaScript, HTML, CSS, React, Node.js, Express, REST APIs, MySQL, SQLite**  
+Git, GitHub, Agile/Scrum, AWS EC2 (basic)
+
+---
 
 ## 📫 Contact
-- **Email:** tantawanjittsan@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/thantawan-chitsan-0123b9350/
+📧 Email: tantawanjittsan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/thantawan-chitsan/
