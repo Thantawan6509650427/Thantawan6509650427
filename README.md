@@ -5,7 +5,6 @@ Interested in developing user-friendly products by combining clear UI/UX thinkin
 
 🌐 Portfolio: https://my-portfolio-umber-chi-c83s82jyz1.vercel.app/  
 💻 GitHub: https://github.com/Thantawan6509650427  
-📪 Linkin: www.linkedin.com/in/thantawan-chitsan
 
 ---
 
