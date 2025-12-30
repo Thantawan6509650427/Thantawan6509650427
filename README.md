@@ -21,6 +21,20 @@ I enjoy developing user-friendly products by combining clear UI/UX thinking with
 
 ---
 
+## 🏢 Experience
+
+### IT Development Intern — Mizuho Bank Ltd. (Bangkok Branch)  
+**Jun 2025 – Aug 2025**
+
+- Supported the full Software Development Life Cycle (SDLC) from requirement gathering to testing  
+- Frequently assisted in a PM-like role by communicating with stakeholders to clarify requirements and identify pain points  
+- Helped analyze problems in internal workflows and proposed system-based solutions  
+- Developed internal web tools using HTML and JavaScript under senior supervision  
+- Conducted system testing to ensure functionality met business requirements  
+- Coordinated with cross-functional teams to support project progress
+
+---
+
 ## 🚀 Selected Projects
 
 ### 🍽 Food Advisor  
@@ -53,20 +67,6 @@ I enjoy developing user-friendly products by combining clear UI/UX thinking with
 - Designed UI using Figma and translated designs into implementation  
 - Designed database schemas and implemented CRUD features  
 - Supported reporting and document tracking functionalities
-
----
-
-## 🏢 Experience
-
-### IT Development Intern — Mizuho Bank Ltd. (Bangkok Branch)  
-**Jun 2025 – Aug 2025**
-
-- Supported the full Software Development Life Cycle (SDLC) from requirement gathering to testing  
-- Frequently assisted in a PM-like role by communicating with stakeholders to clarify requirements and identify pain points  
-- Helped analyze problems in internal workflows and proposed system-based solutions  
-- Developed internal web tools using HTML and JavaScript under senior supervision  
-- Conducted system testing to ensure functionality met business requirements  
-- Coordinated with cross-functional teams to support project progress
 
 ---
 
