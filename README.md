@@ -1,7 +1,8 @@
 # Hi, I’m Thantawan 👋
 
-Final-year Computer Science student at Thammasat University with hands-on experience in building practical web and mobile applications.  
-I enjoy developing user-friendly products by combining clear UI/UX thinking with solid development fundamentals, and I’m especially interested in understanding real-world requirements and turning them into workable solutions.
+Final-year Computer Science student at Thammasat University with hands-on experience in software testing across Web, Mobile, and API systems.
+I’m especially interested in ensuring software quality, understanding real-world business requirements, and translating them into clear test scenarios and reliable test coverage throughout the SDLC.
+
 
 🌐 **Portfolio:** https://my-portfolio-umber-chi-c83s82jyz1.vercel.app/  
 💻 **GitHub:** https://github.com/Thantawan6509650427  
