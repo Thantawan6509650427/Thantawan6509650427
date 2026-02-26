@@ -1,7 +1,8 @@
 # Hi, I’m Thantawan 👋
 
-Final-year Computer Science student at Thammasat University with hands-on experience in software testing across Web, Mobile, and API systems.
-I’m especially interested in ensuring software quality, understanding real-world business requirements, and translating them into clear test scenarios and reliable test coverage throughout the SDLC.
+Final-year Computer Science student at Thammasat University with hands-on experience in system development, software validation, and workflow analysis across web, mobile, and API-based systems.
+
+I am particularly interested in understanding how technology supports real-world business operations — from requirement clarification and system design to implementation and functional validation within structured development environments.
 
 
 🌐 **Portfolio:** https://my-portfolio-umber-chi-c83s82jyz1.vercel.app/  
@@ -14,11 +15,12 @@ I’m especially interested in ensuring software quality, understanding real-wor
 
 ---
 
-## 💡 Focus Areas
-- Web & Mobile Application Development  
-- UX/UI Design (developer-focused)  
-- RESTful APIs & basic backend systems  
-- Understanding business requirements and system workflows (SDLC)
+## 💡 Professional Focus
+- System & Workflow Analysis  
+- Business Requirement Understanding  
+- Functional Validation & Quality Awareness  
+- Web & API-based Application Development  
+- SDLC Familiarity (Agile & Structured Environments)
 
 ---
 
@@ -27,12 +29,11 @@ I’m especially interested in ensuring software quality, understanding real-wor
 ### IT Development Intern — Mizuho Bank Ltd. (Bangkok Branch)  
 **Jun 2025 – Aug 2025**
 
-- Supported the full Software Development Life Cycle (SDLC) from requirement gathering to testing  
-- Frequently assisted in a PM-like role by communicating with stakeholders to clarify requirements and identify pain points  
-- Helped analyze problems in internal workflows and proposed system-based solutions  
-- Developed internal web tools using HTML and JavaScript under senior supervision  
-- Conducted system testing to ensure functionality met business requirements  
-- Coordinated with cross-functional teams to support project progress
+- Supported system development lifecycle activities from requirement clarification to testing validation  
+- Assisted in stakeholder communication to refine functional expectations  
+- Analyzed internal operational workflows and contributed to system improvement initiatives  
+- Developed internal web utilities under senior supervision  
+- Conducted structured system validation to ensure alignment with defined requirements  
 
 ---
 
